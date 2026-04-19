@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav style={styles.nav}>
       <div className="container" style={styles.container}>
-        <a href="#" style={styles.logo} className="text-gradient">Portfolio.</a>
+        <a href="#" style={styles.logo} className="text-gradient"> &gt; Mesam E Tamaar</a>
         <ul style={styles.navLinks}>
           <li><a href="#skills">Skills</a></li>
           <li><a href="#projects">Projects</a></li>
