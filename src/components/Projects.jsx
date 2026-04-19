@@ -4,6 +4,12 @@ import FadeIn from './FadeIn';
 const Projects = () => {
   const projectList = [
     {
+      title: 'Autosentry',
+      description: 'Autosentry is an autonomous network detection and response system using intelligent agents. It analyzes logs, detects threats, and performs automated mitigation actions to improve security monitoring and response efficiency.',
+      tags: ["Python", "LangGraph", "LangChain", "React", "Cybersecurity", "Network Security", "Agentic AI", "Suricata", "Graylog"],
+      link: 'https://github.com/S-Tashfeen-Hassan/AutoSentry'
+    },
+    {
       title: 'RootShift',
       description: 'RootShift is a minimal version control system in Go that mimics core Git features. It is designed for learning, simplicity, and university labs, not production environments.',
       tags: ["Go", "Educational", "Version Control System", "CLI"],
